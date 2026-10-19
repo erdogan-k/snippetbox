@@ -27,16 +27,7 @@
 
 ---
 
-## Screenshots
 
-> **Note:** The blocks below are clearly identified placeholders until real production screenshots are captured and added to `docs/screenshots/`.
-
-- **[Placeholder — Desktop Main Library & Dark Theme]:** `docs/screenshots/desktop-library-dark.png` *(Shows the left navigation sidebar, instant search bar, filter/sort toolbar, and responsive snippet card grid).*
-- **[Placeholder — Dynamic Template Renderer Workbench]:** `docs/screenshots/template-workbench.png` *(Shows auto-generated variable inputs on the left and live rendered output preview on the right).*
-- **[Placeholder — Command Palette (`Ctrl/Cmd + K`)]:** `docs/screenshots/command-palette.png` *(Shows keyboard-first snippet lookup, quick copy, and navigation actions).*
-- **[Placeholder — Mobile Responsive View]:** `docs/screenshots/mobile-view.png` *(Shows compact mobile navigation and one-handed copy controls).*
-
----
 
 ## Installation & Development
 
